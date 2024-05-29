@@ -1,8 +1,5 @@
 
 <div align=center><a href="https://blog.naver.com/jnsblog" target="_blank"><img src="https://img.shields.io/badge/N_Blog-03C75A?style=plastic&logo=naver&logoColor=white"/></a>
-<a href="https://www.acmicpc.net/user/jrinda" target="_blank"><img src="https://img.shields.io/badge/Baekjoon-E21A2C?style=plastic&logo=macys&logoColor=white"/>
-
-<div align=center> 
 
 
 
