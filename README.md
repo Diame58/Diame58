@@ -1,6 +1,6 @@
                                                 
 
-[![Hits](https://https://github.com/Diame58/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Diame58)
+[![Hits](https://github.com/Diame58/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Diame58)
                                                 
 <div align=center><a href="https://blog.naver.com/jnsblog" target="_blank"><img src="https://img.shields.io/badge/N_Blog-03C75A?style=plastic&logo=naver&logoColor=white"/></a>
 <a href="https://linkbio.co/junhyukkwon" target="_blank"><img src="https://img.shields.io/badge/Junhyuk-5C1F87?style=plastic&logo=alfred&logoColor=white"/>
