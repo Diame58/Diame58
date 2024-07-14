@@ -1,6 +1,6 @@
                                                 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%237A7A7A&title_bg=%23090A0A&icon=askfm.svg&icon_color=%23FF00F9&title=hii&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2FDiame58&count_bg=%237A7A7A&title_bg=%23090A0A&icon=askfm.svg&icon_color=%23FF00F9&title=hii&edge_flat=false)](https://hits.seeyoufarm.com)
                                                 
 <div align=center><a href="https://blog.naver.com/jnsblog" target="_blank"><img src="https://img.shields.io/badge/N_Blog-03C75A?style=plastic&logo=naver&logoColor=white"/></a>
 <a href="https://linkbio.co/junhyukkwon" target="_blank"><img src="https://img.shields.io/badge/Junhyuk-5C1F87?style=plastic&logo=alfred&logoColor=white"/>
