@@ -6,7 +6,7 @@
 </div>
 
 <div align=center>
-*Languages and Tools*  
+*Tech Stack*  
 </div>
 
 
