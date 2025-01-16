@@ -5,9 +5,9 @@
 
 </div>
 
-<div align=center>
-*Tech Stack*  
-</div>
+<h1 align="center"><i>Tech Stack</i></h1>
+
+
 
 
 <div align=center>
