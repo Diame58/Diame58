@@ -1,9 +1,4 @@
-<div align="center">
 
-<a href="https://blog.naver.com/jnsblog" target="_blank"><img src="https://img.shields.io/badge/N_Blog-03C75A?style=plastic&logo=naver&logoColor=white"/></a>
-<a href="https://linkbio.co/junhyukkwon" target="_blank"><img src="https://img.shields.io/badge/Junhyuk-5C1F87?style=plastic&logo=alfred&logoColor=white"/>
-
-</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F70000&background=FF441300&vCenter=true&multiline=true&random=true&width=435&lines=Data+Scientist+JunHyuk)](https://git.io/typing-svg)
 
@@ -32,3 +27,10 @@
 
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jrinda)](https://solved.ac/jrinda)
+
+<div align="center">
+
+<a href="https://blog.naver.com/jnsblog" target="_blank"><img src="https://img.shields.io/badge/N_Blog-03C75A?style=plastic&logo=naver&logoColor=white"/></a>
+<a href="https://linkbio.co/junhyukkwon" target="_blank"><img src="https://img.shields.io/badge/Junhyuk-5C1F87?style=plastic&logo=alfred&logoColor=white"/>
+
+</div>
