@@ -13,10 +13,11 @@
 <code><img height="25" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png"></code> <!-- Java -->
 <code><img height="25" src="https://img.icons8.com/color/240/000000/html-5.png"></code> <!-- HTML -->
 <code><img height="25" src="https://img.icons8.com/color/240/000000/mysql-logo.png"></code> <!-- MySQL -->
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code> <!-- PostgreSQL -->
 <code><img height="25" src="https://img.icons8.com/color/48/000000/spring-logo.png"></code> <!-- Spring Boot -->
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <!-- Git -->
 <code><img height="25" src="https://img.icons8.com/color/240/000000/amazon-web-services.png"></code> <!-- AWS -->
+<code><img height="25" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-small.png"></code> <!-- Scikit-learn -->
+<code><img height="25" src="https://raw.githubusercontent.com/dask/dask/main/docs/source/images/dask_horizontal.svg"></code> <!-- Dask -->
 
 </div>
 
