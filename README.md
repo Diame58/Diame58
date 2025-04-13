@@ -28,8 +28,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diame58&layout=compact&theme=tokyonight" align="center" style="width: 42%" /> 
 </div>
 
-
+<div align=center>
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jrinda)](https://solved.ac/jrinda)
+</div>
 
 <div align="center">
 
