@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F70000&background=FF441300&vCenter=true&multiline=true&random=true&width=435&lines=Hi+I'm+Junhyuk+Kwon)](https://git.io/typing-svg)
 
-<h1 align="center"><i>Tech Stack</i></h1>
+<h1 align="center"><i>Main Tech Stack</i></h1>
 
 
 
@@ -10,9 +10,8 @@
 <div align=center>
   
 <code><img height="25" src="https://img.icons8.com/color/240/000000/python.png"></code> <!-- Python -->
-<code><img height="25" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png"></code> <!-- Java -->
-<code><img height="25" src="https://img.icons8.com/color/48/000000/spring-logo.png"></code> <!-- Spring Boot -->
-<code><img height="25" src="https://img.icons8.com/color/240/000000/amazon-web-services.png"></code> <!-- AWS -->
+<code><img height="25" src="https://img.icons8.com/external-flat-juicy-fish/240/external-machine-learning-data-science-flat-flat-juicy-fish.png"></code> <!-- Machine Learning -->
+<code><img height="25" src="https://img.icons8.com/external-outline-black-m-oki-orlando/240/external-data-analytics-data-analytics-outline-outline-black-m-oki-orlando.png"></code> <!-- Data Analytics -->
 
 </div>
 
