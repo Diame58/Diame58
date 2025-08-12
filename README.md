@@ -8,10 +8,9 @@
 
 
 <div align=center>
-  
-<code><img height="25" src="https://img.icons8.com/color/240/000000/python.png"></code> <!-- Python -->
-<code><img height="25" src="https://img.icons8.com/.../machine-learning-brain-gear.png"></code> <!-- Machine Learning -->
-<code><img height="25" src="https://img.icons8.com/.../data-analytics-magnifier-chart.png"></code> <!-- Data Analytics -->
+- Python
+- Machine Learning
+- Data Analytics
 
 
 </div>
