@@ -10,8 +10,9 @@
 <div align=center>
   
 <code><img height="25" src="https://img.icons8.com/color/240/000000/python.png"></code> <!-- Python -->
-<code><img height="25" src="https://img.icons8.com/external-flat-juicy-fish/240/external-machine-learning-data-science-flat-flat-juicy-fish.png"></code> <!-- Machine Learning -->
-<code><img height="25" src="https://img.icons8.com/external-outline-black-m-oki-orlando/240/external-data-analytics-data-analytics-outline-outline-black-m-oki-orlando.png"></code> <!-- Data Analytics -->
+<code><img height="25" src="https://img.icons8.com/.../machine-learning-brain-gear.png"></code> <!-- Machine Learning -->
+<code><img height="25" src="https://img.icons8.com/.../data-analytics-magnifier-chart.png"></code> <!-- Data Analytics -->
+
 
 </div>
 
