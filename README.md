@@ -8,14 +8,15 @@
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-FF6F00?style=for-the-badge&logo=google-analytics&logoColor=white)
-
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 </br>
 
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=Diame58&show_icons=true&theme=tokyonight" align="center" style="width: 53%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diame58&layout=compact&theme=tokyonight" align="center" style="width: 42%" /> 
 </div>
 
