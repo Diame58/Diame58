@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F70000&background=FF441300&vCenter=true&multiline=true&random=true&width=435&lines=Hi+I'm+Junhyuk+Kwon)](https://git.io/typing-svg)
 
-<h1 align="center"><i>Main Tech Stack</i></h1>
+<h1 align="center"><i>Main Tech Stack && Tools </i></h1>
 
 
 
