@@ -1,6 +1,7 @@
-
+<h1 align="left"><i> 🤗About Me </i></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=CF06F0&background=FF441300&vCenter=true&multiline=true&random=true&width=435&lines=Hi+I'm+Junhyuk+Kwon)](https://git.io/typing-svg)
+
 
 <h1 align="left"><i>💻Skills </i></h1>
 
