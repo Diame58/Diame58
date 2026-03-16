@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=CF06F0&background=FF441300&vCenter=true&multiline=true&random=true&width=435&lines=Hi+I'm+Junhyuk+Kwon)](https://git.io/typing-svg)
 
-<h1 align="center"><i>Skills </i></h1>
+<h1 align="left"><i>💻Skills </i></h1>
 
 
 
@@ -17,6 +17,7 @@
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 <br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat&logo=subversion&logoColor=white)
