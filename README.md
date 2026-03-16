@@ -4,9 +4,6 @@
 
 <h1 align="left"><i>💻Skills </i></h1>
 
-
-
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 <br>
@@ -23,8 +20,12 @@
 ![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat&logo=subversion&logoColor=white)
 </br>
 
+<h1 align="left"><i> 🗨️Blog </i></h1>
+<a href="https://blog.naver.com/jnsblog" target="_blank"><img src="https://img.shields.io/badge/N_Blog-03C75A?style=plastic&logo=naver&logoColor=white"/></a>
+<a href="https://linkbio.co/junhyukkwon" target="_blank"><img src="https://img.shields.io/badge/Junhyuk-5C1F87?style=plastic&logo=alfred&logoColor=white"/>
 
 
+<h1 align="left"><i> Solved.ac </i></h1>
 <div align="center">
   <a href="https://solved.ac/jrinda">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jrinda" alt="solved.ac tier" />
@@ -32,9 +33,3 @@
 </div>
 
 
-<div align="center">
-
-<a href="https://blog.naver.com/jnsblog" target="_blank"><img src="https://img.shields.io/badge/N_Blog-03C75A?style=plastic&logo=naver&logoColor=white"/></a>
-<a href="https://linkbio.co/junhyukkwon" target="_blank"><img src="https://img.shields.io/badge/Junhyuk-5C1F87?style=plastic&logo=alfred&logoColor=white"/>
-
-</div>
