@@ -1,7 +1,31 @@
 <h1 align="left"><i> 🤗About Me </i></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=CF06F0&background=FF441300&vCenter=true&multiline=true&random=true&width=435&lines=Hi+I'm+Junhyuk+Kwon)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CF06F0&center=true&vCenter=true&width=435&lines=I'm+JunHyuk+Kwon;Multi-Agent+Architect+by+Night;The+Boulder+Never+Stops)](https://git.io/typing-svg)
 
+[![GitHub followers](https://img.shields.io/github/followers/Diame58?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/Diame58)
+[![GitHub User's stars](https://img.shields.io/github/stars/Diame58?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/Diame58)
+[![Profile Views](https://komarev.com/ghpvc/?username=Diame58&style=for-the-badge&color=blueviolet)](https://github.com/Diame58)
+
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Diame58&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Diame58/Diame58/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
 
 <h1 align="left"><i>💻Skills </i></h1>
 
