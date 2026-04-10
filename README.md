@@ -27,12 +27,11 @@
 
 ---
 
-<h1 align="left"><i>💻Skills </i></h1>
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+<h1 align="left"><i>💻Tech Stack </i></h1>
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4A90E2?style=flat-square&logo=googleanalytics&logoColor=white)
+![Web Dev](https://img.shields.io/badge/Web%20Dev-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)
 <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 <br>
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
