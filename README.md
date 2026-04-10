@@ -28,6 +28,7 @@
 ---
 
 <h1 align="left"><i>💻Tech Stack </i></h1>
+
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4A90E2?style=flat-square&logo=googleanalytics&logoColor=white)
 ![Web Dev](https://img.shields.io/badge/Web%20Dev-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)
 <br>
