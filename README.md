@@ -1,6 +1,6 @@
 <h1 align="left"><i> 🤗Hi there, I'm Junhyuk Kwon </i></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CF06F0&center=true&vCenter=true&width=435&lines=SI+Engineer+by+Internship+by+Day;Agent+Architect+by+Night;OverWatch+Lover)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CF06F0&center=true&vCenter=true&width=435&lines=SI+Engineer+Intern+by+Day;Agent+Architect+by+Night;OverWatch+Lover)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/Diame58?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/Diame58)
 [![GitHub User's stars](https://img.shields.io/github/stars/Diame58?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/Diame58)
