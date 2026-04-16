@@ -16,6 +16,23 @@
 </div>
 
 ---
+## 📊 AI Usage Embed
+
+<div align="center">
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/Diame58/svg?sort=cost&compact=1)](https://tokscale.ai/u/Diame58)
+
+<details>
+<summary><b>GitHub embed snippet</b></summary>
+
+```md
+[![Tokscale Stats](https://tokscale.ai/api/embed/Diame58/svg?sort=cost&compact=1)](https://tokscale.ai/u/Diame58)
+```
+
+</details>
+
+</div>
+---
 
 ## 🐍 Contribution Snake
 
