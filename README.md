@@ -13,25 +13,6 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Diame58&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
-
----
-## 📊 AI Usage Embed
-
-<div align="center">
-
-[![Tokscale Stats](https://tokscale.ai/api/embed/Diame58/svg?sort=cost&compact=1)](https://tokscale.ai/u/Diame58)
-
-<details>
-<summary><b>GitHub embed snippet</b></summary>
-
-```md
-[![Tokscale Stats](https://tokscale.ai/api/embed/Diame58/svg?sort=cost&compact=1)](https://tokscale.ai/u/Diame58)
-```
-
-</details>
-
-</div>
 ---
 
 ## 🐍 Contribution Snake
@@ -47,10 +28,12 @@
 <h1 align="left"><i>💻Tech Stack </i></h1>
 
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4A90E2?style=flat-square&logo=googleanalytics&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=scikitlearn&logoColor=orange)
 ![Web Dev](https://img.shields.io/badge/Web%20Dev-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)
 <br>
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 <br>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
