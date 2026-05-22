@@ -1,4 +1,4 @@
-<h1 align="left"><i> 🤗Hi there, I'm Junhyuk Kwon </i></h1>
+<h1 align="center"> 🤗Hi there, I'm Junhyuk Kwon </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CF06F0&center=true&vCenter=true&width=435&lines=SI+Engineer+Intern+by+Day;Agent+Architect+by+Night;OverWatch+Lover)](https://git.io/typing-svg)
 
