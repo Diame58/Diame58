@@ -47,11 +47,3 @@
 <a href="https://linkbio.co/junhyukkwon" target="_blank"><img src="https://img.shields.io/badge/Junhyuk-5C1F87?style=plastic&logo=alfred&logoColor=white"/>
 
 
-<h1 align="left"><i> Solved.ac </i></h1>
-<div align="left">
-  <a href="https://solved.ac/jrinda">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jrinda" alt="solved.ac tier" />
-  </a>
-</div>
-
-
