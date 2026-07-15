@@ -29,12 +29,6 @@
 
 ---
 
-<h1 align="left"><i>💻Tech Stack </i></h1>
-
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4A90E2?style=flat-square&logo=googleanalytics&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=scikitlearn&logoColor=orange)
-![Web Dev](https://img.shields.io/badge/Web%20Dev-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)
-
 <h1 align="left"><i> 🗨️Blog </i></h1>
 <a href="https://blog.naver.com/jnsblog" target="_blank"><img src="https://img.shields.io/badge/N_Blog-03C75A?style=plastic&logo=naver&logoColor=white"/></a>
 <a href="https://linkbio.co/junhyukkwon" target="_blank"><img src="https://img.shields.io/badge/Junhyuk-5C1F87?style=plastic&logo=alfred&logoColor=white"/>
