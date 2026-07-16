@@ -19,6 +19,10 @@
 
 ---
 
+
+[![TokscaleStats](https://tokscale.ai/api/embed/Diame58/svg?template=minimal&color=teal&graph=1)](https://tokscale.ai/u/Diame58)
+
+---
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -28,8 +32,6 @@
 </div>
 
 ---
-[![TokscaleStats](https://tokscale.ai/api/embed/Diame58/svg?template=minimal&color=teal&graph=1)](https://tokscale.ai/u/Diame58)
- 
 
 <h1 align="left"><i> 🗨️Blog </i></h1>
 <a href="https://blog.naver.com/jnsblog" target="_blank"><img src="https://img.shields.io/badge/N_Blog-03C75A?style=plastic&logo=naver&logoColor=white"/></a>
