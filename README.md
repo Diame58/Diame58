@@ -18,8 +18,19 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Diame58&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+## 📊 AI Usage Embed
 
-![Tokscale Tokens](https://tokscale.ai/api/badge/Diame58/svg?metric=tokens&compact=1)
+<div align="center">
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/Diame58/svg?sort=cost&compact=1)](https://tokscale.ai/u/Diame58)
+
+<details>
+<summary><b>GitHub embed snippet</b></summary>
+
+```md
+[![Tokscale Stats](https://tokscale.ai/api/embed/Diame58/svg?sort=cost&compact=1)](https://tokscale.ai/u/Diame58)
+```
+
 
 ---
 ## 🐍 Contribution Snake
