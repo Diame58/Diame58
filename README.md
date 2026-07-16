@@ -24,11 +24,14 @@
 ```md
 [![Tokscale Stats](https://tokscale.ai/api/embed/Diame58/svg?sort=cost&compact=1)](https://tokscale.ai/u/Diame58)
 ```
+</div>
+
 ---
 
 ## 📈 Contribution Graph
 <div align="center">
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Diame58&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
 ---
 ## 🐍 Contribution Snake
