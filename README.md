@@ -19,8 +19,7 @@
 
 ---
 
-
-[![TokscaleStats](https://tokscale.ai/api/embed/Diame58/svg?template=minimal&color=teal&graph=1)](https://tokscale.ai/u/Diame58)
+![Tokscale Tokens](https://tokscale.ai/api/badge/Diame58/svg?metric=tokens&compact=1)
 
 ---
 ## 🐍 Contribution Snake
