@@ -24,6 +24,7 @@
 ```md
 [![Tokscale Stats](https://tokscale.ai/api/embed/Diame58/svg?sort=cost&compact=1)](https://tokscale.ai/u/Diame58)
 ```
+---
 
 ## 📈 Contribution Graph
 <div align="center">
