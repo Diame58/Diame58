@@ -3,7 +3,7 @@
 <h1> 🤗Hi there, I'm Junhyuk Kwon </h1>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CF06F0&center=true&vCenter=true&width=435&lines=Prompt+Engineer+by+Day;Agent+Architect+by+Night;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CF06F0&center=true&vCenter=true&width=435&lines=AI+Product+Engineer+by+Day;Trade+Studies+by+Night;" />
 </a>
 
 [![GitHub followers](https://img.shields.io/github/followers/Diame58?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/Diame58)
