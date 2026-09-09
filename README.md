@@ -11,30 +11,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Diame58&style=for-the-badge&color=blueviolet)](https://github.com/Diame58)
 </div>
 
----
-## 📊 AI Usage Embed
-
-<div align="center">
-
-[![Tokscale Stats](https://tokscale.ai/api/embed/Diame58/svg?sort=cost&compact=1)](https://tokscale.ai/u/Diame58)
-
-<details>
-<summary><b>GitHub embed snippet</b></summary>
-
-```md
-[![Tokscale Stats](https://tokscale.ai/api/embed/Diame58/svg?sort=cost&compact=1)](https://tokscale.ai/u/Diame58)
-```
-
-</div>
-
----
-
-## 📈 Contribution Graph
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Diame58&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 ## 🐍 Contribution Snake
