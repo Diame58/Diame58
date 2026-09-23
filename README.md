@@ -23,10 +23,9 @@
 
 ---
 
-## ♥
-
 <div align="center">
-
+<h1>♥</h1>
+  
 <a href="https://openai.com/codex"><img src="https://img.shields.io/badge/Codex-191919?style=for-the-badge" alt="Codex" /></a>
 <a href="https://opencode.ai/go"><img src="https://img.shields.io/badge/OpenCode_Go-0B7285?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode Go" /></a>
 <a href="https://aside.com"><img src="https://img.shields.io/badge/Aside_Browser-2F3437?style=for-the-badge" alt="Aside Browser" /></a>
