@@ -33,7 +33,7 @@
 </div>
 
 <details>
-<summary><code>SCIE Q1 논문게재, 음주 고위험군 ML 개발</code> · 데이터 분석 / ML</summary>
+<summary><code>SCIE Q1 논문게재</code> <code>음주 고위험군 ML 개발</code> · 데이터 분석/ ML</summary>
 
 <br />
 
